@@ -1,0 +1,15 @@
+{
+  "name": "endomondo-dwnl",
+  "version": "1.0.0",
+  "description": "Endomodo Downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RSm",
+  "license": "ISC",
+  "dependencies": {
+    "cross-fetch": "^3.0.6",
+    "endomondo-api-handler": "^7.3.36"
+  }
+}
